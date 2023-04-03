@@ -1,0 +1,98 @@
+.formulario{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    color: #ce477f;
+    padding: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+}
+
+
+
+.formulario .saudacao{
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+
+.formulario h4{
+
+    margin: 0%;
+}
+
+
+/*.botao{
+
+    font-size: 15px;
+    background-color: #ce477f;
+    color: #eee5e9;
+    border-radius: 8px;
+    margin-top: 10px;
+
+
+}*/
+
+
+.usuario{
+    font-size: 20px;
+    align-self: flex-start;
+    
+
+}
+
+.senha{
+    font-size: 20px;
+    border-radius: 8PX;
+    align-self: flex-start;
+   
+}
+
+
+
+
+    .formulario input{
+
+        border-radius: 8PX;
+        align-self: center;
+        border-color: aqua;
+        margin-bottom: 5px;
+        padding: 5px 0; 
+
+
+        
+    }
+
+
+    .formulario button{
+        
+        font-size: 15px;
+        background-color: #ce477f;
+        color: #eee5e9;
+        border-radius: 9px;
+        margin-top: 10px;
+        border: 0;
+        width: 150px;
+        align-self: center;
+        cursor: pointer;
+
+    }
+
+/*.password{
+
+        border-radius: 8PX;
+        align-self: center;
+        border-color: aqua;
+
+}
+
+.email{
+
+    border-radius: 8px;
+    align-self: center;
+    border-color: aqua;
+
+}*/
